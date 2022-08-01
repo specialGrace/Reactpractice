@@ -1,0 +1,15 @@
+button{
+    padding: 10px 20px;
+    color: green;
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.container > .btn1{
+    color: azure;
+}

@@ -1,0 +1,12 @@
+.heading{
+    background-color: blue;
+    color: #fff;
+}
+
+.slug{
+    width: 100%;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
